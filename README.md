@@ -1,6 +1,7 @@
 # Magang-RS-Dewi-Sri-Karawang
 
 day 1 : Mempelajari seputar fiber optic (Penjelsan, Kelebihan dan Kekurangan, Kegunaan alat-alat pendukung, Toplogy)
+
 day 2 : Mempelajari unit sistem komputer, pemasangan unit hardware sistem komputer di IGD
 day 3 : Mempelajari dan membuat kabel straight dan di coba pemsangan di switch ke CPU PC
 day 4 : Wawancara project sistem informasi rumah sakit yang sedang di kembangkan oleh staff (Pak. Gaddy),
